@@ -1,5 +1,6 @@
 mod flowers;
 mod vegetables;
+mod front_of_house;
 
 use flowers::test_flowers_modules;
 use vegetables::test_vegetables;
