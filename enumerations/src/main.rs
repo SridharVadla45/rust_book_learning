@@ -6,6 +6,7 @@ enum Answer {
 fn main() {
     println!("Hello, world!");
     let correct = Answer::Correct;
-    let wrong = Answer::Wrong;
+    let wrong = Answer::Wrong;   
+    3
 
 }

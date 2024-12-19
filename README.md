@@ -18,4 +18,7 @@
 
  cargo run  -- cmd to build and run the program with out building and running separately 
  ```
-
+# Packages and Crates 
+   1. binary crate / executable 
+   2. library crate 
+   
