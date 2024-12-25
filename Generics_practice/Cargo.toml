@@ -1,8 +1,6 @@
 [package]
-name = "error_handling"
+name = "Generics_practice"
 version = "0.1.0"
 edition = "2021"
 
-
 [dependencies]
-colored = "2"
